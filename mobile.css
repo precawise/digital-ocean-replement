@@ -149,9 +149,9 @@ button:hover {
     padding-top:15%;
     font-size:30px; line-height: 40px;
 }
-.small-img{
+.small-img-1-ns{
     width:20%;
-    margin-top: 20px;
+    margin-top: -20px;
     margin-left: 20px;
 }
 .small-img-1{
@@ -162,6 +162,7 @@ button:hover {
 .display-flex{
     display:inline-flex;
 }
+
 .h1-one{
     /* margin-top:-30px; */
     /* line-height: 35px; */
@@ -189,7 +190,7 @@ button:hover {
    padding: 0px 20px 0px 10px;
    height: 178px;
    margin-top:20px;
-   margin-left: 50px;
+   margin-left: 30px;
    width: 148px;
 }
 
@@ -240,6 +241,7 @@ button:hover {
 }
 .h3-style{
     text-align:center;
+    font-size:10px;
 }
 
 .box-element{
